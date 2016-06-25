@@ -12,9 +12,9 @@
 
 3. Adicionando arquivos criados anteriormente:
 
- `add README.md`
+ `git add README.md`
 
- `add index.html`
+ `git add index.html`
 
 4. Fazendo commit:
 
