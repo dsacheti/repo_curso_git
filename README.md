@@ -12,32 +12,32 @@
 
 3. Adicionando arquivos criados anteriormente:
 
-`add README.md`
+ `add README.md`
 
-`add index.html`
+ `add index.html`
 
 4. Fazendo commit:
 
-`git commit -m"Primeiro commit`
+ `git commit -m"Primeiro commit`
 
 5. Verificando status do branch master:
 
-`git status`
+ `git status`
 
 _Quando executei este comando me mostrou uma mensagem estranha:_
 
 >"Your branch is based on 'origin/master', but the upstream is gone.
   (use "git branch --unset-upstream" to fixup)"
   
-  _Então resolvi fazer o que me pediu.
+  _Então resolvi fazer o que me pediu._
   
   `git branch --unset--upstream`
   
-  verifiquei novamente o satus. Desta vez tudo ok.
+  Verifiquei novamente o satus. Desta vez tudo ok.
   
 6. Fazendo push: o primeiro eu errei o comando, depois fiz:
 
-`git push origin master`
+ `git push origin master`
 
 
 
